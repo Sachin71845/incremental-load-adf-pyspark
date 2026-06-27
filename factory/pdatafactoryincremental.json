@@ -1,0 +1,15 @@
+{
+	"name": "pdatafactoryincremental",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3a22a73-9c7d-4c55-a849-960cabf784c0",
+		"tenantId": "b6d18ec9-969c-4dc3-aebc-c3e821d1b9a1"
+	}
+}
