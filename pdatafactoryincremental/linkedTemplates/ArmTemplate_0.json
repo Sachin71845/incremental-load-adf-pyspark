@@ -156,14 +156,11 @@
 					"location": {
 						"type": "HttpServerLocation",
 						"relativeUrl": {
-							"value": "@Sachin71845/incremental-load-adf-pyspark/refs/heads/main/dataset().p_url",
+							"value": "@dataset().p_url",
 							"type": "Expression"
 						}
 					},
-					"columnDelimiter": ",",
-					"escapeChar": "\\",
-					"firstRowAsHeader": true,
-					"quoteChar": "\""
+					"escapeChar": "\\"
 				},
 				"schema": [
 					{
