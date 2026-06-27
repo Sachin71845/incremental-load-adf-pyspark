@@ -131,7 +131,7 @@
 											"type": "DatasetReference",
 											"parameters": {
 												"p_url": {
-													"value": "Sachin71845/incremental-load-adf-pyspark/refs/heads/main/@item().p_URL",
+													"value": "@item().p_URL",
 													"type": "Expression"
 												}
 											}
